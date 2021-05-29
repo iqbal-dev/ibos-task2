@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+th {
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+.DataTable {
+  width: 1000px;
+  margin: 0 auto;
+}
